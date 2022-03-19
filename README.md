@@ -4,5 +4,5 @@ We even have a description.
 
 # Contributors
 - Luis G
-- Elizondo
+- Carlos Elizondo
 
